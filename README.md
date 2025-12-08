@@ -1,6 +1,5 @@
-# 👋🏻 Bienvenido(a) a mi perfil
+# 👋🏻 Welcome to My Profile
+Hello, I'm Diego, and on this profile, I will show you my projects.
 
-Hola, soy Diego y en este perfil te mostrare mis proyectos.
-
-# 💻 Mi portafolio WEB
-Para ir a mi pagina web en la cual podras ver mis proyectos WEBS da click [AQUI](https://diiegoof-wiki.vercel.app).
+# 💻 My Web Portfolio
+To go to my webpage where you can see my WEB projects, click [HERE](https://diiegoof-wiki.vercel.app).
