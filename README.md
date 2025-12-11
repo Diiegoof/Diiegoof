@@ -2,4 +2,4 @@
 Hello, I'm Diego, and on this profile, I will show you my projects.
 
 # 💻 My Web Portfolio
-To go to my webpage where you can see my WEB projects, click <a href="https://diiegoof.me" target="_blank" rel="noopener noreferrer">HERE</a>
+To go to my webpage where you can see my WEB projects, click [HERE](https://diiegoof.me).
